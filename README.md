@@ -14,12 +14,6 @@ The expectation is to submit a document that demonstrates the ADD steps as appli
  - Second Iteration
  - Third Iteration
  
-# Input Review
-The CMS described is a greenfield system from a mature domain. As the first step of the ADD process is not stepped through except in the case of the first iteration, this step is described in the README file.
-
-### Design Purpose
-The purpose is to produce a system design that is sufficiently detailed to support the future construction of the system.
-
 
 
 # Group Members
